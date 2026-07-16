@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Wangbooth</title>
+        <title>BAOMI WANG</title>
         <link>https://wangbaomi.com</link>
-        <description>Wangbooth's personal blog and thoughts</description>
-        <lastBuildDate>Thu, 16 Jul 2026 09:16:17 GMT</lastBuildDate>
+        <description>BAOMI WANG's personal blog and thoughts</description>
+        <lastBuildDate>Thu, 16 Jul 2026 09:36:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
-            <title>Wangbooth</title>
+            <title>BAOMI WANG</title>
             <url>https://wangbaomi.com/favicon.ico</url>
             <link>https://wangbaomi.com</link>
         </image>
-        <copyright>All rights reserved Wangbooth 2026</copyright>
+        <copyright>All rights reserved BAOMI WANG 2026</copyright>
         <item>
             <title><![CDATA[Hello 2025]]></title>
             <link>https://wangbaomi.com/blogs/test-blog/</link>
@@ -23,7 +23,7 @@
 # 2025
 
 This is my logbook.]]></content:encoded>
-            <author>wangbooth@gmail.com (Wangbooth)</author>
+            <author>booth@deepmem.ai (BAOMI WANG)</author>
         </item>
     </channel>
 </rss>
